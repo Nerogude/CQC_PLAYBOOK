@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CQC_PLAYBOOK/static/css/main.48f3d2f1.css",
+    "main.js": "/CQC_PLAYBOOK/static/js/main.c6d8c8f1.js",
+    "static/js/453.051e7530.chunk.js": "/CQC_PLAYBOOK/static/js/453.051e7530.chunk.js",
+    "index.html": "/CQC_PLAYBOOK/index.html",
+    "main.48f3d2f1.css.map": "/CQC_PLAYBOOK/static/css/main.48f3d2f1.css.map",
+    "main.c6d8c8f1.js.map": "/CQC_PLAYBOOK/static/js/main.c6d8c8f1.js.map",
+    "453.051e7530.chunk.js.map": "/CQC_PLAYBOOK/static/js/453.051e7530.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48f3d2f1.css",
+    "static/js/main.c6d8c8f1.js"
+  ]
+}
